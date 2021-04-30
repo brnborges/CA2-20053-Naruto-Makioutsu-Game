@@ -36,7 +36,7 @@
 ## :camera_flash: Videos
 
 
-[![Watch the video](https://user-images.githubusercontent.com/60415859/116728749-314e9700-a9de-11eb-8e32-8d50f7f70e8c.png)](https://user-images.githubusercontent.com/60415859/116728749-314e9700-a9de-11eb-8e32-8d50f7f70e8c.png)
+[![Watch the video](https://user-images.githubusercontent.com/60415859/116728749-314e9700-a9de-11eb-8e32-8d50f7f70e8c.png)](https://user-images.githubusercontent.com/60415859/116728775-3c092c00-a9de-11eb-83d7-d32e0439b2c8.mp4)
 
 
 ## :camera_flash: Screenshots
