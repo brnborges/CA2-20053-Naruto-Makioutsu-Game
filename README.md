@@ -12,12 +12,12 @@
 <br>
 
 <p align="center">
-    <img alt="prototype" src="assetsReadme/Group 1.png" height="350px" />
+    <img alt="prototype" src="https://user-images.githubusercontent.com/60415859/116729669-57286b80-a9df-11eb-8630-5c33bd99d1c2.png" height="350px" />
 </p>
 
 ## :bookmark: About
 
-**HouseFinder** is a tool that aims to assist in finding vacancies in properties with a simple but modern and sophisticated usability.
+**Naruto-Makioutsu** is a 3d game developed to hit the target of one of the most requested foods by the anime character Naruto
 
 <br>
 
