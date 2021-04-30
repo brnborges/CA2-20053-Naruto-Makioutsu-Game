@@ -53,4 +53,4 @@
 
 ## :video_game: Game
 
-- **[Simmer.io](https://simmer.io/@brnboges/naruto-makioutsu)
+- **[WebGL Game by Simmer.io](https://simmer.io/@brnboges/naruto-makioutsu)**
