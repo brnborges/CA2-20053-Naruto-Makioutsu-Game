@@ -17,6 +17,14 @@
     <img alt="prototype" src="https://user-images.githubusercontent.com/60415859/116729669-57286b80-a9df-11eb-8630-5c33bd99d1c2.png" height="350px" />
 </p>
 
+<br>
+
+## :joystick: Game
+
+- **[WebGL Game by Simmer.io](https://simmer.io/@brnboges/naruto-makioutsu)**
+
+<br>
+
 ## :bookmark: About
 
 **Naruto-Makioutsu** is a 3d game developed to hit the target of one of the most requested foods by the anime character Naruto
@@ -48,9 +56,3 @@
 ![Gameplay](https://user-images.githubusercontent.com/60415859/116728745-314e9700-a9de-11eb-8c47-a7632a6433da.png)
 ![Hit Target](https://user-images.githubusercontent.com/60415859/116728746-314e9700-a9de-11eb-8630-6cc063f6be60.png)
 ![Score screen](https://user-images.githubusercontent.com/60415859/116728744-301d6a00-a9de-11eb-8ad0-beb91bdac9f4.png)
-
-<br>
-
-## :joystick: Game
-
-- **[WebGL Game by Simmer.io](https://simmer.io/@brnboges/naruto-makioutsu)**
