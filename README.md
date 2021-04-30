@@ -6,7 +6,7 @@
   <a href="#wrench-tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#camera_flash-videos">Videos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#camera_flash-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#video_game">Game</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#joystick">Game</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
   
 </p>
@@ -51,6 +51,6 @@
 
 <br>
 
-## :video_game: Game
+## :joystick: Game
 
 - **[WebGL Game by Simmer.io](https://simmer.io/@brnboges/naruto-makioutsu)**
